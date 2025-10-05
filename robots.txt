@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.tranqueirachic.com.br/sitemap.xml
